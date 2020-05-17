@@ -43,7 +43,7 @@ option {font-weight: normal; display: block; white-space: pre; min-height: 1.2em
 .form-control:focus{box-shadow: none;}
 .cart-icon li a:hover i{color: #dc3545;}
 .cart-icon li a:hover{background-color: #fff;box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);}
-.navigation-menu li a,.cart-icon li a,.cart-icon li a:hover i{transition: all 0.4s ease-in-out;-webkit-transition: all 0.4s ease-in-out;-moz-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;-ms-transition: all 0.4s ease-in-out;}
+.navigation-menu li a,.cart-icon li a,.cart-icon li a:hover i,.see-more a{transition: all 0.4s ease-in-out;-webkit-transition: all 0.4s ease-in-out;-moz-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;-ms-transition: all 0.4s ease-in-out;}
 .navbar-toggle .icon-bar{background-color: #fff;}
 .logo{color: #000;font-size: 40px;padding-top: 0;padding-bottom: 0;line-height: 42px;}
 .navigation-menu li a{line-height: 47px;font-size: 15px;}
