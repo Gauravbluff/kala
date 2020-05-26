@@ -41,8 +41,6 @@ font-weight: 900;}
 .see-more{float: left;width: 100%;}
 .see-more a{float: left;padding: 15px 50px;background-color: #4d7099;color: #fff;border-radius: 25px;font-size: 12px;line-height: 16px;border: 1px solid transparent;font-family: 'Nunito', sans-serif;font-weight: 500;text-transform: uppercase;}
 .see-more a:hover{border: 1px solid #4d7099;color: #fff;background-color: transparent;}
-
-
 /* latest arrival start */
 .latest-arrival{margin-top: 50px;}
 .latest-arrival h2{float: left;width: auto;}
